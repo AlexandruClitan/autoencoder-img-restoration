@@ -13,7 +13,6 @@ The model learns to reconstruct clean images from corrupted (noisy or blurred) i
 - Image Deblurring
 - Skip connections architecture
 - PSNR and SSIM evaluation
-- Early stopping training
 - Visualization of results
   
 ## Technologies Used
